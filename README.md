@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Evans
 - 👀 I’m interested in Web Dev, Data Analytics, and AI/ML
-- 💞️ I’m looking to collaborate on: Anything Web Dev and Data Analyytics
+- 💞️ I’m looking to collaborate on: Anything Web Dev and Data analytics.
 - 📫 How to reach me: mail: evangitz@gmail.com
